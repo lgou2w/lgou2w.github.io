@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b1a36"],{2167:function(n,e,t){"use strict";t.r(e);var a=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("v-container",{attrs:{fluid:""}},[t("p",[n._v("仪表盘")])])},r=[],c={name:"UserDashboard",data:function(){return{}},methods:{}},o=c,s=t("2877"),u=t("6544"),i=t.n(u),d=t("a523"),f=Object(s["a"])(o,a,r,!1,null,"f5f8eccc",null);e["default"]=f.exports;i()(f,{VContainer:d["a"]})}}]);
+//# sourceMappingURL=chunk-2d0b1a36.3d6d69ee.js.map
